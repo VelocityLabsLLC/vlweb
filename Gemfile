@@ -37,6 +37,7 @@ gem 'spree_auth_devise', '~> 3.3'
 gem 'spree_gateway', '~> 3.3'
 gem 'polyamorous', '>=1.3.2'
 gem 'ransack', '>=1.8.8'
+gem 'spree_mail_settings', github: 'spree-contrib/spree_mail_settings'
 
 # Do not use spree_mail_settings, use ActionMailer instead
 # gem 'spree_mail_settings', github: 'spree-contrib/spree_mail_settings'
