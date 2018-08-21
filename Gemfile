@@ -37,6 +37,7 @@ gem 'spree_auth_devise', '~> 3.3'
 gem 'spree_gateway', '~> 3.3'
 gem 'polyamorous', '>=1.3.2'
 gem 'ransack', '>=1.8.8'
+gem 'spree_mail_settings', github: 'spree-contrib/spree_mail_settings'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
