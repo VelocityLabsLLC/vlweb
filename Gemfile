@@ -39,7 +39,8 @@ gem 'polyamorous', '>=1.3.2'
 gem 'ransack', '>=1.8.8'
 
 # Use these 2 gems to build in ActiveShipping to the Spree framwork
-# gem 'spree_active_shipping'
+# gem 'spree_active_shipping', git: "git://github.com/spree/spree_active_shipping", branch: "3-1-stable"
+# gem 'spree_active_shipping', github: 'joshRpowell/spree_active_shipping'
 # gem 'active_shipping', git: 'git://github.com/Shopify/active_shipping.git'
 
 # Do not use spree_mail_settings, use ActionMailer instead
